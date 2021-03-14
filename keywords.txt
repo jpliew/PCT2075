@@ -1,0 +1,47 @@
+#######################################
+# Syntax Coloring Map For PCT2075 Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PCT2075	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+setThyst	KEYWORD2
+setTos	KEYWORD2
+shutdown	KEYWORD2
+normal	KEYWORD2
+setTidle	KEYWORD2
+isShutdown	KEYWORD2
+getTempC	KEYWORD2
+getTempF	KEYWORD2
+getTempRaw	KEYWORD2
+getThyst	KEYWORD2
+getTos	KEYWORD2
+getConfig	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+PCT2075_REG_TEMP	LITERAL1
+PCT2075_REG_CONF	LITERAL1
+PCT2075_REG_THYST	LITERAL1
+PCT2075_REG_TOS	LITERAL1
+PCT2075_REG_TIDLE	LITERAL1
+PCT2075_BIT_ACTIVE_LOW	LITERAL1
+PCT2075_BIT_ACTIVE_HIGH	LITERAL1
+PCT2075_BIT_COMPARATOR	LITERAL1
+PCT2075_BIT_INTERRUPT	LITERAL1
+PCT2075_BIT_NORMAL	LITERAL1
+PCT2075_BIT_SHUTDOWN	LITERAL1
+PCT2075_BIT_FAULT_1X	LITERAL1
+PCT2075_BIT_FAULT_2X	LITERAL1
+PCT2075_BIT_FAULT_4X	LITERAL1
+PCT2075_BIT_FAULT_6X	LITERAL1
